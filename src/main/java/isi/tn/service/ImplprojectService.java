@@ -11,7 +11,7 @@ import isi.tn.repository.projectRepository;
 @Service
 public class ImplprojectService implements IprojectService{
 
-	
+
 	@Autowired
 	projectRepository prepo;
 
